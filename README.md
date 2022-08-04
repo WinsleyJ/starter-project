@@ -18,11 +18,12 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ```bash
   npm run build
-```## Project setup
+```
 
 ```bash
   npm install
 ```
+
 ### Compiles and hot-reloads for development
 
 ```bash
@@ -63,11 +64,11 @@ The `Home` route is the default route, it will be the first route that is loaded
 
 ## Vue GTM
 
-In the 'src/main.js' file you will find the configuration of the GTM object. Don't forget to add your GTM ID to the GTM object and to change 'debug' to 'false' when you are ready to deploy your site.
+In the `src/main.js` file you will find the configuration of the GTM object. Don't forget to add your GTM ID to the GTM object and to change 'debug' to 'false' when you are ready to deploy your site.
 
 ## Comments
 
-There are some comments in the template starting with 'TODO:' as a simple reminder. Some of the comments include a link to a tool online to help you with the specific todo. Once your done with the task you can simple remove the comment. 
+There are some comments in the template starting with `TODO:` as a simple reminder. Some of the comments include a link to a tool online to help you with the specific todo. Once your done with the task you can simple remove the comment. Search `TODO:` through all files to make sure you didn't miss any of them.
 
 ## Recommended IDE Setup
 
